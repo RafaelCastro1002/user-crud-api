@@ -1,6 +1,6 @@
 # API CRUD DE USUÁRIOS
 
-![](https://img.shields.io/badge/typescript-gray?logo=typescript) ![](https://img.shields.io/badge/express-gray?logo=express) ![](https://img.shields.io/badge/prisma ORM-gray?logo=prisma) ![](https://img.shields.io/badge/sqlite database-gray?logo=sqlite) ![](https://img.shields.io/badge/gihub-gray?logo=github) ![](https://img.shields.io/badge/yarn-gray?logo=yarn)
+![](https://img.shields.io/badge/typescript-gray?logo=typescript) ![](https://img.shields.io/badge/express-gray?logo=express) ![](https://img.shields.io/badge/prisma_ORM-gray?logo=prisma) ![](https://img.shields.io/badge/sqlite_database-gray?logo=sqlite) ![](https://img.shields.io/badge/gihub-gray?logo=github) ![](https://img.shields.io/badge/yarn-gray?logo=yarn)
 
 O objetivo dessa api é servir de suporte para o desenvolvimento e validação da biblioteca [express-generate-swagger](https://www.npmjs.com/package/express-generate-swagger?activeTab=readme "express-generate-swagger") hospedada no Gerenciador de Pacotes NPM, o código fonte pode ser encontrado no [Github](https://github.com/RafaelCastro1002/express-swagger-doc-generator "Github").
 
