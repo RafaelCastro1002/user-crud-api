@@ -4,7 +4,7 @@
 
 O objetivo dessa api é servir de suporte para o desenvolvimento e validação da biblioteca [express-generate-swagger](https://www.npmjs.com/package/express-generate-swagger?activeTab=readme "express-generate-swagger") hospedada no Gerenciador de Pacotes NPM, o código fonte pode ser encontrado no [Github](https://github.com/RafaelCastro1002/express-swagger-doc-generator "Github").
 
-Para validar e testar a biblioteca conto com sua colaboração, foi pensado em algo simples e rápido, divido em 2 etapas, primeiro você construir a documentação swagger de forma tradicional escrevendo o arquivo json/yml e após instalar a biblioteca [express-generate-swagger](https://www.npmjs.com/package/express-generate-swagger?activeTab=readme "express-generate-swagger") gerar a documentação swagger.
+Para validar e testar a biblioteca conto com sua colaboração, foi pensado em algo simples e rápido, divido em 2 etapas, primeiro construir a documentação Swagger de forma tradicional escrevendo o arquivo json/yml e no segundo passo instalar a biblioteca [express-generate-swagger](https://www.npmjs.com/package/express-generate-swagger?activeTab=readme "express-generate-swagger") gerar a documentação swagger.
 **Para facilitar vou deixar aqui um [Formulário do Google](http://google.com.br "Formulário do Google") que contém maiores detalhes sobre como proceder com o teste e também pronto para colher seu feedback.**
 
 ---
